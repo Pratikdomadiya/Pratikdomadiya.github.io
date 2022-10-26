@@ -6,7 +6,7 @@ My website portfolio
 
 ### Computer View
 
-![alt text](https://github.com/Pratikdomadiya/Pratikdomadiya.github.io/blob/main/Portfolio/Portfolio.jpeg)
+![alt text](https://github.com/Pratikdomadiya/Pratikdomadiya.github.io/blob/main/Portfolio/Portfolio.PNG)
 
 ### Mobile View
 
