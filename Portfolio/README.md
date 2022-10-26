@@ -6,11 +6,11 @@ My website portfolio
 
 ### Computer View
 
-![alt text](https://github.com/Pratikdomadiya/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/Pratikdomadiya/Pratikdomadiya.github.io/blob/main/Portfolio/Portfolio.jpeg)
 
 ### Mobile View
 
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.jpeg)
+![alt text](https://github.com/Pratikdomadiya/Pratikdomadiya.github.io/blob/main/Portfolio/Portfolio_mobile.jpeg)
 
 ## Author
 
